@@ -1,0 +1,16 @@
+db.monsters.insert(
+    {
+    "name":"Monster Mo",
+    "health":"bad",
+    "last_fought":new Date(2017,8,10),
+    "attacks":["bite","fight","fright"],
+    "stats":{"attack":1, "defense":1}
+    },
+    {
+    "name":"Monster Joe",
+    "health":"good",
+    "last_fought":new Date(2017,8,10),
+    "attacks":["bite","fright","grrr"],
+    "stats":{"attack":2, "defense":2}
+    }
+)

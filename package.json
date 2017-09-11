@@ -1,0 +1,22 @@
+{
+  "name": "mongodb_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-42/codeschool_mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-42/codeschool_mongodb/issues"
+  },
+  "homepage": "https://github.com/code-42/codeschool_mongodb#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
