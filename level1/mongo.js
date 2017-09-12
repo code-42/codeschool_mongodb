@@ -77,3 +77,4 @@ db.monsters.find({"attacks":"bite"})
  
 db.monsters.find({"stats.defense":1})
 
+// github test
